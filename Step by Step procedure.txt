@@ -1,0 +1,9 @@
+STEP TO EXECUTE THE PROJECT
+ 
+ STEP1: The user need to tap on the run all option which is in the top of the screen.
+
+ STEP2:	The session will be started.
+
+ STEP3: The coding part keeps running.
+
+ STEP4: The accuracy will be shown in the end of the session
